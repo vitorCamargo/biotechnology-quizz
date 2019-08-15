@@ -1,0 +1,13 @@
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\bin\Debug\prjBiotecnologia.exe.config
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\bin\Debug\prjBiotecnologia.exe
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\bin\Debug\prjBiotecnologia.pdb
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\obj\Debug\prjBiotecnologia.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\obj\Debug\prjBiotecnologia.Form1.resources
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\obj\Debug\prjBiotecnologia.Properties.Resources.resources
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\obj\Debug\prjBiotecnologia.csproj.GenerateResource.Cache
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\obj\Debug\prjBiotecnologia.exe
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\obj\Debug\prjBiotecnologia.pdb
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\prjBiotecnologia\prjBiotecnologia\obj\Debug\prjBiotecnologia.Pergunta.resources
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\Aplicativo\prjBiotecnologia\bin\Debug\prjBiotecnologia.exe.config
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\Aplicativo\prjBiotecnologia\obj\Debug\prjBiotecnologia.exe
+C:\Users\Vitor\Documents\Documentos\Escola\Escola\3º ano\Bio\Biotecnologia\Aplicativo\prjBiotecnologia\obj\Debug\prjBiotecnologia.pdb
